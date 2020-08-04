@@ -2,8 +2,8 @@ module.exports = {
   title: 'AlexaCodex - exampledocusau',
   tagline: 'The tagline of my site',
   url: 'https://github.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  baseUrl: '/exampledocusau/',
+  onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'AlexaCodex', // Usually your GitHub org/user name.
   projectName: 'exampledocusau', // Usually your repo name.
